@@ -1,0 +1,28 @@
+package halo;
+
+import java.util.*;
+
+// Constructors are used to initialize the object's state
+// The three types of constructors are no argument, parameterized and overloaded
+
+class Ben extends constructor
+{ 
+	// Driver method to test above 
+    public static void main(String args[]) 
+    { 
+    	
+       // no argument constructor
+       constructor benObj = new constructor(); // call constructor
+       
+   
+       // parameterized constructor
+       constructor benji = new constructor(5, "tuna"); // call constructor
+       System.out.println("there are " + benji.tuna + " " + benji.fish); // prints there are 5 tuna
+       
+       // overloaded constructor
+       constructor ben1 = new constructor("hello");
+       constructor ben2 = new constructor("hello", 25);
+       constructor ben3 = new constructor(4214122);
+       
+    } 
+} 
