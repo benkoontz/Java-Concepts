@@ -2,6 +2,8 @@ package halo;
 
 public class Objects {
 	
+	
+	int fish = 0; // default
 	public int moose = 0;
 	private int moose1 = 1;
 	protected int moose2 = 2;
