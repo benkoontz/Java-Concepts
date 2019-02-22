@@ -15,7 +15,7 @@ import java.util.*;
 
 // int is a primitive data type
 // int is used to just store data
-// Integer a Wrapper class 
+// Integer is part of a Wrapper class 
 // Integer is a class and has it's own methods
 
 
