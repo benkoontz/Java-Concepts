@@ -9,7 +9,7 @@ import java.util.*;
 // However, an engine is not always a part of a car.
 // An engine can be swapped out or not used.
 
-class Ben extends constructor
+class Ben 
 { 
 	// Driver method to test above 
     public static void main(String args[]) 
